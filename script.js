@@ -17,6 +17,6 @@ function convert(){
         result.textContent = temp.toFixed(1) + `°C`
     }
     else{
-        result.textContent = "Atleast select any one unti";
+        result.textContent = "Atleast select any one unit";
     }
 }
